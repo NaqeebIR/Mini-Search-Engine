@@ -1,0 +1,4 @@
+This is a sample document for testing the search engine.
+It contains some example text that we can search through.
+The search engine should be able to find words and rank documents based on relevance.
+This implementation uses TF-IDF algorithm for ranking search results.
